@@ -1,0 +1,1 @@
+This project demonstrates step-by-step progress tracking. It showcases a simple interface with numbered circles representing each step. As users progress, circles change color, and a dynamic progress bar fills accordingly. This project offers an accessible template for implementing progress indicators in multi-step processes within web applications.
