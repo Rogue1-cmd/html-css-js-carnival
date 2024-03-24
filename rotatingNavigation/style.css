@@ -60,10 +60,12 @@ body {
 }
 
 .circle button#open {
+    color: #222;
     left: 60%;
 }
 
 .circle button#close {
+    color: red;
     top: 60%;
     transform: rotate(90deg);
     transform-origin: top left;
